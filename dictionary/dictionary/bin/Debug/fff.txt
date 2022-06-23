@@ -1,0 +1,9 @@
+uz,en,uq
+a,b,c
+d,e,f
+g,h,j
+k,l,m
+q,w,e
+r,t,y
+x,c,v
+d,f,g

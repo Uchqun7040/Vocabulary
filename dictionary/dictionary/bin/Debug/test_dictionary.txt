@@ -1,0 +1,8 @@
+uz,en,uq
+olma,apple,eppl
+ota,father,fazer
+amaki,unkle,ankl
+nomalum,unkown,enkovn
+o'yinchi,player,pleyr
+daftar,notebook,notebuk
+kitob,book,buk
