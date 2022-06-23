@@ -1,1 +1,1 @@
-# Vocabulary
+# kod muallifi Sanjar Normurodov
